@@ -1,0 +1,430 @@
+{
+  "requires": ["cobblemon"],
+  "content": {
+
+    "trainer_obj_cobblemon_catch_bug": {
+      "type": "criteria",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "bug"
+        },
+      "amount": 
+        {
+          "min": 4,
+          "max": 12
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_grass": {
+      "type": "criteria",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "grass"
+        },
+      "amount": 
+        {
+          "min": 4,
+          "max": 12
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_flying": {
+      "type": "criteria",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "flying"
+        },
+      "amount": 
+        {
+          "min": 4,
+          "max": 12
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_normal": {
+      "type": "criteria",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "normal"
+        },
+      "amount": 
+        {
+          "min": 4,
+          "max": 12
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_water": {
+      "type": "criteria",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "water"
+        },
+      "amount": 
+        {
+          "min": 4,
+          "max": 12
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_fire": {
+      "type": "criteria",
+      "rarity": "UNCOMMON",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "fire"
+        },
+      "amount": 
+        {
+          "min": 3,
+          "max": 10
+        },
+      "unitWorth": 1000
+    },
+    
+    "trainer_obj_cobblemon_catch_electric": {
+      "type": "criteria",
+      "rarity": "UNCOMMON",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "electric"
+        },
+      "amount": 
+        {
+          "min": 3,
+          "max": 10
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_fighting": {
+      "type": "criteria",
+      "rarity": "UNCOMMON",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "fighting"
+        },
+      "amount": 
+        {
+          "min": 3,
+          "max": 10
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_poison": {
+      "type": "criteria",
+      "rarity": "UNCOMMON",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "poison"
+        },
+      "amount": 
+        {
+          "min": 3,
+          "max": 10
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_psychic": {
+      "type": "criteria",
+      "rarity": "UNCOMMON",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "psychic"
+        },
+      "amount": 
+        {
+          "min": 3,
+          "max": 10
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_ground": {
+      "type": "criteria",
+      "rarity": "UNCOMMON",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "ground"
+        },
+      "amount": 
+        {
+          "min": 3,
+          "max": 10
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_rock": {
+      "type": "criteria",
+      "rarity": "UNCOMMON",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "rock"
+        },
+      "amount": 
+        {
+          "min": 3,
+          "max": 10
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_dark": {
+      "type": "criteria",
+      "rarity": "RARE",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "dark"
+        },
+      "amount": 
+        {
+          "min": 2,
+          "max": 8
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_dragon": {
+      "type": "criteria",
+      "rarity": "RARE",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "dragon"
+        },
+      "amount": 
+        {
+          "min": 2,
+          "max": 8
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_ghost": {
+      "type": "criteria",
+      "rarity": "RARE",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "ghost"
+        },
+      "amount": 
+        {
+          "min": 2,
+          "max": 8
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_steel": {
+      "type": "criteria",
+      "rarity": "RARE",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "steel"
+        },
+      "amount": 
+        {
+          "min": 2,
+          "max": 8
+        }, 
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_fairy": {
+      "type": "criteria",
+      "rarity": "EPIC",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "fairy"
+        },
+      "amount": 
+        {
+          "min": 1,
+          "max": 6
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_ice": {
+      "type": "criteria",
+      "rarity": "EPIC",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": 
+        {
+          "type": "ice"
+        },
+      "amount": 
+        {
+          "min": 1,
+          "max": 6
+        },
+      "unitWorth": 1000
+    },
+
+    "trainer_obj_cobblemon_catch_shiny": {
+      "type": "criteria",
+      "rarity": "RARE",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_shiny_pokemon",
+      "conditions": 
+        {
+          "tag": "cobblemon:pokemon"
+        },
+      "amount": 
+        {
+          "min": 1,
+          "max": 1
+        },
+      "unitWorth": 2000
+    },
+
+    "trainer_obj_cobblemon_catch_shiny_epic": {
+      "type": "criteria",
+      "rarity": "EPIC",
+      "timeMult": 3.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:catch_shiny_pokemon",
+      "conditions": 
+        {
+          "tag": "cobblemon:pokemon"
+        },
+      "amount": 
+        {
+          "min": 1,
+          "max": 3
+        },
+      "unitWorth": 2000
+    }, 
+
+    "trainer_obj_cobblemon_defeat_pokemon": {
+      "type": "criteria",
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:pokemon_defeated",
+      "conditions": 
+        {
+          "tag": "cobblemon:pokemon"
+        },
+      "amount": 
+        {
+          "min": 1,
+          "max": 8
+        },
+      "unitWorth": 500
+    },
+
+    "trainer_obj_cobblemon_defeat_pokemon2": {
+      "type": "criteria",
+      "rarity": "UNCOMMON",
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:pokemon_defeated",
+      "conditions": 
+        {
+          "tag": "cobblemon:pokemon"
+        },
+      "amount": 
+        {
+          "min": 2,
+          "max": 12
+        },
+      "unitWorth": 500
+    },
+
+    "trainer_obj_cobblemon_defeat_pokemon_uncommon": {
+      "type": "criteria",
+      "rarity": "RARE",
+      "timeMult": 2.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:pokemon_defeated",
+      "conditions": 
+        {
+          "tag": "cobblemon:pokemon"
+        },
+      "amount": 
+        {
+          "min": 4,
+          "max": 24
+        },
+      "unitWorth": 550
+    },
+
+    "trainer_obj_cobblemon_defeat_pokemon_uncommon2": {
+      "type": "criteria",
+      "rarity": "EPIC",
+      "timeMult": 2.0,
+      "icon": "minecraft:knowledge_book",
+      "content": "cobblemon:pokemon_defeated",
+      "conditions": 
+        {
+          "tag": "cobblemon:pokemon"
+        },
+      "amount": 
+        {
+          "min": 6,
+          "max": 36
+        },
+      "unitWorth": 550
+    }
+
+  }
+}

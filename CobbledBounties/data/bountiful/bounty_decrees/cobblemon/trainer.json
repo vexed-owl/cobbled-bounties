@@ -1,0 +1,13 @@
+{
+  "objectives": 
+  [
+    "trainer_objs",
+    "_all_objs_cobblemon"
+  ],
+  "rewards": 
+  [
+    "trainer_rews",
+    "_all_rews_cobblemon",
+    "_all_rews"
+  ]
+}

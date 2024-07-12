@@ -1,0 +1,49 @@
+{
+  "bountiful.decree.arborist.name": "Arboriculture",
+    "bountiful.entry.aborist_obj_cobblemon_catch_grass": "Catch Grass-Type Pokemon",
+
+  "bountiful.decree.cook.name": "Cooking",
+
+    "bountiful.entry.farmer_obj_cobblemon_catch_grass": "Catch Grass-Type Pokemon",
+    "bountiful.entry.farmer_obj_cobblemon_catch_water": "Catch Water-Type Pokemon",
+    "bountiful.entry.farmer_rew_cobblemon_mints_wildcard": "Random Mint",
+
+    "bountiful.entry.fisherman_obj_cobblemon_catch_water": "Catch Water-Type Pokemon",
+
+    "bountiful.entry.inventor_obj_cobblemon_catch_electric": "Catch Electric-Type Pokemon",
+
+  "bountiful.decree.trainer.name": "Trainer Tasks",
+    "bountiful.entry.trainer_obj_cobblemon_catch_bug": "Catch Bug-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_dark": "Catch Dark-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_dragon": "Catch Dragon-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_electric": "Catch Electric-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_fairy": "Catch Fairy-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_fighting": "Catch Fighting-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_fire": "Catch Fire Type-Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_flying": "Catch Flying-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_ghost": "Catch Ghost-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_grass": "Catch Grass-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_ground": "Catch Ground-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_ice": "Catch Ice-Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_normal": "Catch Normal Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_poison": "Catch Poison Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_psychic": "Catch Psychic Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_rock": "Catch Rock Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_steel": "Catch Steel Type Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_water": "Catch Water Type Pokemon",
+    
+    "bountiful.entry.trainer_obj_cobblemon_catch_shiny": "Catch Shiny Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_catch_shiny_epic": "Catch Shiny Pokemon",
+
+    "bountiful.entry.trainer_obj_cobblemon_level_pokemon": "Level Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_level_pokemon_rare": "Level Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_level_pokemon_epic": "Level Pokemon",
+    
+    "bountiful.entry.trainer_obj_cobblemon_defeat_pokemon": "Defeat Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_defeat_pokemon2": "Defeat Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_defeat_pokemon_uncommon": "Defeat Pokemon",
+    "bountiful.entry.trainer_obj_cobblemon_defeat_pokemon_uncommon2": "Defeat Pokemon"
+
+
+
+}

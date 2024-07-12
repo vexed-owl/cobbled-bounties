@@ -1,0 +1,26 @@
+{
+	"requires": ["cobblemon"],
+	"content": {
+
+		"fisherman_obj_cobblemon_catch_water": {
+			"type": "criteria",
+			"rarity": "UNCOMMON",
+			"timeMult": 3.0,
+			"icon": "minecraft:knowledge_book",
+			"content": "cobblemon:catch_pokemon",
+			"conditions": 
+			  {
+				"type": "water"
+			  },
+			"amount": 
+			  {
+				"min": 1,
+				"max": 4
+			  },
+			"unitWorth": 1000
+		  }
+	  
+
+	}
+
+}

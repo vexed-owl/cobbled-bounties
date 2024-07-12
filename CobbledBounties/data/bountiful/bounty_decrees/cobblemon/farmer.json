@@ -1,0 +1,17 @@
+{
+  "objectives": 
+    [
+      "farmer_objs",
+		  "_all_objs",
+      "farmer_cm_objs",
+      "_all_objs_cobblemon"
+    ],
+  "rewards": 
+  [
+    "farmer_rews",
+		"_all_rews",
+		"_gardening_rews",
+    "farmer_cm_rews",
+    "_all_rews_cobblemon"
+  ]
+}

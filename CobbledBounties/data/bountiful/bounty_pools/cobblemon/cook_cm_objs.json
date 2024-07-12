@@ -1,0 +1,147 @@
+{
+	"requires": ["cobblemon"],
+	"content": {
+
+		"cook_obj_cobblemon_roasted_leek": {
+			"type": "item",
+			"content": "cobblemon:roasted_leek",
+			"amount": {
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 75
+		},
+
+		"cook_obj_cobblemon_berry_juice": {
+			"type": "item",
+			"content": "cobblemon:berry_juice",
+			"amount": {
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 80
+		},
+
+		"cook_obj_cobblemon_leek_and_potato_soup": {
+			"type": "item",
+			"content": "cobblemon:leek_and_potato_soup",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 125
+		},
+
+		"cook_obj_cobblemon_braised_vivichoke": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:braised_vivichoke",
+			"amount": {
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 350
+		},
+
+		"cook_obj_cobblemon_vivichoke_dip": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:vivichoke_dip",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 375
+		},
+
+		"cook_obj_cobblemon_strawberry_sweet": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:strawberry_sweet",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1100
+		},
+
+		"cook_obj_cobblemon_love_sweet": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:love_sweet",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 100
+		},
+
+		"cook_obj_cobblemon_berry_sweet": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:berry_sweet",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000
+		},
+
+		"cook_obj_cobblemon_clover_sweet": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:clover_sweet",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000
+		},
+
+		"cook_obj_cobblemon_flower_sweet": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:flower_sweet",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000
+		},
+
+		"cook_obj_cobblemon_star_sweet": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:star_sweet",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000
+		},
+
+		"cook_obj_cobblemon_ribbon_sweet": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:ribbon_sweet",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000
+		},
+
+		"cook_obj_cobblemon_whipped_dream": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:whipped_dream",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 1000
+		}
+
+	}
+
+}

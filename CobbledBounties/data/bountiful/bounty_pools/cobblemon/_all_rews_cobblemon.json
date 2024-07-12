@@ -1,0 +1,79 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+		"all_rew_cobblemon_xp_candy_xs": {
+			"type": "item",
+			"content": "cobblemon:exp_candy_xs",
+			"amount": {
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 100,
+			"weightMult": 1.5
+		},
+
+		"all_rew_cobblemon_xp_candy_s": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:exp_candy_s",
+			"amount": {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 800,
+			"weightMult": 1.3
+		},
+
+		"all_rew_cobblemon_xp_candy_m": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:exp_candy_m",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2000,
+			"weightMult": 1.3
+		},
+
+		"all_rew_cobblemon_xp_candy_l": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:exp_candy_l",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000,
+			"weightMult": 1.33
+		},
+
+		"all_rew_cobblemon_xp_candy_xl": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:exp_candy_xl",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000,
+			"weightMult": 0.35
+		},
+
+		"all_rew_cobblemon_rare_candy": {
+			"type": "item",
+			"rarity": "LEGENDARY",
+			"content": "cobblemon:rare_candy",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000,
+			"weightMult": 0.35
+		}
+
+	}
+
+}

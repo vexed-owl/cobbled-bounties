@@ -1,0 +1,15 @@
+{
+  "objectives": 
+    [
+      "inventor_objs",
+		  "_all_objs",
+      "_all_objs_cobblemon"
+    ],
+  "rewards": 
+    [
+      "inventor_rews",
+	  	"_all_rews",
+      "inventor_cm_rews",
+      "_all_rews_cobblemon"
+    ]
+}

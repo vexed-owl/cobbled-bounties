@@ -1,0 +1,136 @@
+{
+	"requires": ["cobblemon","pokefood"],
+	"content": 
+	{
+
+		"cook_rew_pokefood_calcium": {
+			"type": "item",
+			"content": "pokefood:calcium",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 35
+		},
+
+		"cook_rew_pokefood_salt": {
+			"type": "item",
+			"content": "pokefood:salt",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		"cook_rew_pokefood_spicy_juice": {
+			"type": "item",
+			"content": "pokefood:spicy_juice",
+			"amount": 
+			{
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 335
+		},
+
+		"cook_rew_pokefood_wheat_bag": {
+			"type": "item",
+			"content": "pokefood:wheat_bag",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 700
+		},
+
+		"cook_rew_pokefood_bag_black_tea": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pokefood:bag_black_tea",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 700
+		},
+
+		"cook_rew_pokefood_bag_tea": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pokefood:bag_tea",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 700
+		},
+
+		"cook_rew_pokefood_bag_curd": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pokefood:bag_curd",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 500
+		},
+
+		"cook_rew_pokefood_curry_mix": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pokefood:curry_mix",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 475
+		},
+
+		"cook_rew_pokefood_dough": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pokefood:dough",
+			"amount": 
+			{
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 165
+		},
+
+		"cook_rew_pokefood_bag_cherry_dry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "pokefood:bag_cherry_dry",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 900
+		},
+
+		"cook_rew_pokefood_bag_roserade_tea": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "pokefood:bag_roserade_tea",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 4300
+		}
+
+	}
+
+}

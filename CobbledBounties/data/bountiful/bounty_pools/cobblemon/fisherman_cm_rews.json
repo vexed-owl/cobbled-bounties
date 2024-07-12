@@ -1,0 +1,51 @@
+{
+	"requires": ["cobblemon"],
+	"content": {
+
+		"fisherman_rew_cobblemon_azure_ball": {
+			"type": "item",
+			"content": "cobblemon:azure_ball",
+			"amount": {
+					  "min": 1,
+					  "max": 8
+			},
+			"unitWorth": 1000
+		  },
+
+		"fisherman_rew_cobblemon_lure_ball": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:lure_ball",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1500
+		},
+
+		"fisherman_rew_cobblemon_net_ball": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:net_ball",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1500
+		},
+	
+		"fisherman_rew_cobblemon_dive_ball": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:dive_ball",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1500
+		}
+	  
+
+	}
+
+}

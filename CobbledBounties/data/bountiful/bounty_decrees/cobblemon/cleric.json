@@ -1,0 +1,12 @@
+{
+  "objectives": 
+    [
+      "cleric_cm_objs",
+      "_all_objs_cobblemon"
+    ],
+  "rewards": 
+  [
+    "cleric_cm_rews",
+    "_all_rews_cobblemon"
+  ]
+}

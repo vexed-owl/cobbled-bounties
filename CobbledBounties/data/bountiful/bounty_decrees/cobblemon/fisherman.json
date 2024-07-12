@@ -1,0 +1,16 @@
+{
+  "objectives": 
+    [
+      "fisherman_objs",
+		  "_all_objs",
+      "fisherman_cm_objs",
+      "_all_objs_cobblemon"
+    ],
+  "rewards": 
+    [
+      "fisherman_rews",
+		  "_all_rews",
+      "fisherman_cm_rews",
+      "_all_rews_cobblemon"
+    ]
+}

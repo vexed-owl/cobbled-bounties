@@ -1,0 +1,14 @@
+{
+  "objectives": 
+  [
+    "arborist_cm_objs",
+    "_all_objs",
+    "_all_objs_cobblemon"
+  ],
+  "rewards": 
+  [
+    "arborist_cm_rews",
+    "_all_rews",
+    "_all_rews_cobblemon"
+  ]
+}

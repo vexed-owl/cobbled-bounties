@@ -1,0 +1,11 @@
+{
+  "objectives": 
+    [
+      "cook_pf_objs"
+    ],
+  "rewards": 
+  [
+    "cook_pf_rews",
+		"_all_rews"
+  ]
+}

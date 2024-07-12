@@ -1,0 +1,267 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+		"cleric_rew_cobblemon_remedy": {
+			"type": "item",
+			"content": "cobblemon:remedy",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 550,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:big_root"
+				}
+			]
+		},
+
+		"cleric_rew_cobblemon_potion": {
+			"type": "item",
+			"content": "cobblemon:potion",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 550
+		},
+
+		"cleric_rew_cobblemon_antidote": {
+			"type": "item",
+			"content": "cobblemon:antidote",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"cleric_rew_cobblemon_awakening": {
+			"type": "item",
+			"content": "cobblemon:awakening",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"cleric_rew_cobblemon_burn_heal": {
+			"type": "item",
+			"content": "cobblemon:burn_heal",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"cleric_rew_cobblemon_ice_heal": {
+			"type": "item",
+			"content": "cobblemon:ice_heal",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"cleric_rew_cobblemon_paralyze_heal": {
+			"type": "item",
+			"content": "cobblemon:paralyze_heal",
+			"amount": 
+			{
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"cleric_rew_cobblemon_super_potion": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:super_potion",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 700
+		},
+
+		"cleric_rew_cobblemon_ether": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:ether",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 700
+		},
+
+		"cleric_rew_cobblemon_heal_powder": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:heal_powder",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 700,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:revival_herb"
+				}
+			]
+		},
+
+		"cleric_rew_cobblemon_hyper_potion": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:hyper_potion",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000
+		},
+
+		"cleric_rew_cobblemon_full_heal": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:full_heal",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000
+		},
+
+		"cleric_rew_cobblemon_calcium": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:calcium",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+		"cleric_rew_cobblemon_carbos": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:carbos",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+		"cleric_rew_cobblemon_iron": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:iron",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+		"cleric_rew_cobblemon_protein": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:protein",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+		"cleric_rew_cobblemon_zinc": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:zinc",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+		"cleric_rew_cobblemon_hp_up": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:hp_up",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 3000
+		},
+
+		"cleric_rew_cobblemon_pp_up": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:pp_up",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 3000
+		},
+
+		"cleric_rew_cobblemon_revive": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:revive",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2000
+		},
+
+		"cleric_rew_cobblemon_max_revive": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:max_revive",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000
+		},
+
+		"cleric_rew_cobblemon_pp_max": {
+			"type": "item",
+			"rarity": "LEGENDARY",
+			"content": "cobblemon:pp_max",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000
+		}
+
+	}
+
+}

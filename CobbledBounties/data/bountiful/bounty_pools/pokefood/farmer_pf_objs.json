@@ -1,0 +1,201 @@
+{
+	"requires": ["cobblemon","pokefood"],
+	"content": 
+    {
+
+        "farmer_obj_pokefood_black_tea_seeds": {
+            "type": "item",
+            "content": "pokefood:black_tea_seeds",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 75
+        },
+
+        "farmer_obj_pokefood_calcium_seeds": {
+            "type": "item",
+            "content": "pokefood:calcium_seeds",
+            "amount": 
+            {
+                "min": 2,
+                "max": 32
+            },
+            "unitWorth": 25
+        },
+
+        "farmer_obj_pokefood_leek": {
+            "type": "item",
+            "content": "pokefood:leek",
+            "amount": 
+            {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 50
+        },
+
+        "farmer_obj_pokefood_lemon": {
+            "type": "item",
+            "content": "pokefood:lemon",
+            "amount": 
+            {
+                "min": 16,
+                "max": 48
+            },
+            "unitWorth": 35
+        },
+
+        "farmer_obj_pokefood_lemon_seeds": {
+            "type": "item",
+            "content": "pokefood:lemon_seeds",
+            "amount": 
+            {
+                "min": 2,
+                "max": 32
+            },
+            "unitWorth": 25
+        },
+
+        "farmer_obj_pokefood_lettuce": {
+            "type": "item",
+            "content": "pokefood:lettuce",
+            "amount": 
+            {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 50
+        },
+
+        "farmer_obj_pokefood_lime": {
+            "type": "item",
+            "content": "pokefood:lime",
+            "amount": 
+            {
+                "min": 16,
+                "max": 48
+            },
+            "unitWorth": 35
+        },
+
+        "farmer_obj_pokefood_onion": {
+            "type": "item",
+            "content": "pokefood:onion",
+            "amount": 
+            {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 50
+        },
+
+        "farmer_obj_pokefood_onion_seeds": {
+            "type": "item",
+            "content": "pokefood:onion_seeds",
+            "amount": 
+            {
+                "min": 2,
+                "max": 32
+            },
+            "unitWorth": 25
+        },
+
+        "farmer_obj_pokefood_rice": {
+            "type": "item",
+            "content": "pokefood:rice",
+            "amount": 
+            {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 50
+        },
+
+        "farmer_obj_pokefood_tea_seeds": {
+            "type": "item",
+            "content": "pokefood:tea_seeds",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 75
+        },
+
+        "farmer_obj_pokefood_black_grapes": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "pokefood:black_grapes",
+            "amount": 
+            {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 65
+        },
+
+        "farmer_obj_pokefood_black_tea_leaf": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "pokefood:black_tea_leaf",
+            "amount": 
+            {
+                "min": 4,
+                "max": 32
+            },
+            "unitWorth": 50
+        },
+
+        "farmer_obj_pokefood_green_grapes": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "pokefood:green_grapes",
+            "amount": 
+            {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 65
+        },
+
+        "farmer_obj_pokefood_tea_leaf": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "pokefood:tea_leaf",
+            "amount": 
+            {
+                "min": 2,
+                "max": 32
+            },
+            "unitWorth": 50
+        },
+
+        "farmer_obj_pokefood_banana": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "pokefood:banana",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 65
+        },
+
+        "farmer_obj_pokefood_cherry": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "pokefood:cherry",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 65
+        }
+
+    }
+
+}
