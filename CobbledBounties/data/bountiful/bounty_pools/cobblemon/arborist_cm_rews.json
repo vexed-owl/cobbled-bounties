@@ -561,7 +561,7 @@
 		"arborist_rew_cobblemon_iapapa_berry": {
 			"type": "item",
 			"rarity": "EPIC",
-			"content": "cobblemon:siapapa_berry",
+			"content": "cobblemon:iapapa_berry",
 			"amount": {
 				"min": 1,
 				"max": 1

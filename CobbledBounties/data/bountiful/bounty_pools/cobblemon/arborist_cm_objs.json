@@ -5,7 +5,7 @@
 
 		"arborist_obj_cobblemon_apricorn_planks": {
 			"type": "item",
-			"content": "minecraft:apricorn_planks",
+			"content": "cobblemon:apricorn_planks",
 			"amount": {
 				"min": 24,
 				"max": 64
@@ -16,7 +16,7 @@
 
 		"arborist_obj_cobblemon_apricorn_log": {
 			"type": "item",
-			"content": "minecraft:apricorn_log",
+			"content": "cobblemon:apricorn_log",
 			"amount": {
 				"min": 24,
 				"max": 64
