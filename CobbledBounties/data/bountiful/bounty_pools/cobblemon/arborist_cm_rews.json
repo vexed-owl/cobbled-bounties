@@ -10,7 +10,7 @@
 				"min": 1,
 				"max": 4
 			},
-			"unitWorth": 50,
+			"unitWorth": 100,
 			"forbids": [
 				{
 					"type": "item",
@@ -30,7 +30,7 @@
 				"min": 1,
 				"max": 4
 			},
-			"unitWorth": 50,
+			"unitWorth": 100,
 			"forbids": [
 				{
 					"type": "item",
@@ -50,7 +50,7 @@
 				"min": 1,
 				"max": 4
 			},
-			"unitWorth": 50,
+			"unitWorth": 100,
 			"forbids": [
 				{
 					"type": "item",
@@ -70,7 +70,7 @@
 				"min": 1,
 				"max": 4
 			},
-			"unitWorth": 50,
+			"unitWorth": 100,
 			"forbids": [
 				{
 					"type": "item",
@@ -90,7 +90,7 @@
 				"min": 1,
 				"max": 4
 			},
-			"unitWorth": 50,
+			"unitWorth": 100,
 			"forbids": [
 				{
 					"type": "item",
@@ -110,7 +110,7 @@
 				"min": 1,
 				"max": 4
 			},
-			"unitWorth": 50,
+			"unitWorth": 100,
 			"forbids": [
 				{
 					"type": "item",
@@ -130,7 +130,7 @@
 				"min": 1,
 				"max": 4
 			},
-			"unitWorth": 50,
+			"unitWorth": 100,
 			"forbids": [
 				{
 					"type": "item",
@@ -150,7 +150,7 @@
 				"min": 2,
 				"max": 16
 			},
-			"unitWorth": 60,
+			"unitWorth": 120,
 			"forbids": [
 				{
 					"type": "item",
@@ -170,7 +170,7 @@
 				"min": 2,
 				"max": 16
 			},
-			"unitWorth": 60,
+			"unitWorth": 120,
 			"forbids": [
 				{
 					"type": "item",
@@ -190,7 +190,7 @@
 				"min": 2,
 				"max": 16
 			},
-			"unitWorth": 60,
+			"unitWorth": 120,
 			"forbids": [
 				{
 					"type": "item",
@@ -210,7 +210,7 @@
 				"min": 2,
 				"max": 16
 			},
-			"unitWorth": 60,
+			"unitWorth": 120,
 			"forbids": [
 				{
 					"type": "item",
@@ -230,7 +230,7 @@
 				"min": 2,
 				"max": 16
 			},
-			"unitWorth": 60,
+			"unitWorth": 120,
 			"forbids": [
 				{
 					"type": "item",
@@ -250,7 +250,7 @@
 				"min": 2,
 				"max": 16
 			},
-			"unitWorth": 60,
+			"unitWorth": 120,
 			"forbids": [
 				{
 					"type": "item",
@@ -270,7 +270,7 @@
 				"min": 2,
 				"max": 16
 			},
-			"unitWorth": 60,
+			"unitWorth": 120,
 			"forbids": [
 				{
 					"type": "item",
