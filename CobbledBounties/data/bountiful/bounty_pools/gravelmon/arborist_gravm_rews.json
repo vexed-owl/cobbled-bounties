@@ -1,0 +1,92 @@
+{
+	"requires": ["cobblemon","gravelmon"],
+	"content": 
+    {
+
+		"arborist_rew_gravm_orange_apricorn_seed": {
+			"type": "item",
+			"content": "gravelmon:orange_apricorn_seed",
+			"amount": {
+				"min": 3,
+				"max": 36
+			},
+			"unitWorth": 50,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "gravelmon:orange_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "gravelmon:orange_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_gravm_orange_apricorn": {
+			"type": "item",
+			"content": "gravelmon:orange_apricorn",
+			"amount": {
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 60,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "gravelmon:orange_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "gravelmon:orange_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_gravm_purple_apricorn_seed": {
+			"type": "item",
+			"content": "gravelmon:purple_apricorn_seed",
+			"amount": {
+				"min": 3,
+				"max": 36
+			},
+			"unitWorth": 50,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "gravelmon:purple_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "gravelmon:purple_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_gravm_purple_apricorn": {
+			"type": "item",
+			"content": "gravelmon:purple_apricorn",
+			"amount": {
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 60,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "gravelmon:purple_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "gravelmon:purple_apricorn"
+				}
+			]
+		}
+
+    }
+
+}

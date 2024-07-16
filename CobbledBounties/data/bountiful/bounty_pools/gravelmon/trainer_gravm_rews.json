@@ -1,0 +1,444 @@
+{
+	"requires": ["cobblemon","gravelmon"],
+	"content": 
+    {
+
+        "trainer_rew_gravm_annie_ball": {
+            "type": "item",
+            "content": "gravelmon:annie_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 10
+            },
+            "unitWorth": 300,
+			"weightMult": 0.5
+        },
+
+        "trainer_rew_gravm_coral_ball": {
+            "type": "item",
+            "content": "gravelmon:coral_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 12
+            },
+            "unitWorth": 250
+        },
+
+        "trainer_rew_gravm_fishing_ball": {
+            "type": "item",
+            "content": "gravelmon:fishing_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 300,
+			"weightMult": 0.35
+        },
+
+        "trainer_rew_gravm_lime_ball": {
+            "type": "item",
+            "content": "gravelmon:lime_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 1050,
+			"weightMult": 0.35
+		},
+
+        "trainer_rew_gravm_mauve_ball": {
+            "type": "item",
+            "content": "gravelmon:mauve_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 12
+            },
+            "unitWorth": 250
+        },
+
+        "trainer_rew_gravm_oakley_ball": {
+            "type": "item",
+            "content": "gravelmon:oakley_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 10
+            },
+            "unitWorth": 300,
+			"weightMult": 0.5
+		},
+
+        "trainer_rew_gravm_rocket_ball": {
+            "type": "item",
+            "content": "gravelmon:rocket_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 10
+            },
+            "unitWorth": 300,
+			"weightMult": 0.5
+		},
+
+        "trainer_rew_gravm_snore_ball": {
+            "type": "item",
+            "content": "gravelmon:snore_ball",
+            "amount": 
+            {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 250,
+			"weightMult": 0.35
+		},
+
+        "trainer_rew_gravm_anime_gs_ball": {
+            "type": "item",
+            "content": "gravelmon:anime_gs_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4150,
+			"weightMult": 0.2
+        },
+
+        "trainer_rew_gravm_anime_safari_ball": {
+            "type": "item",
+            "content": "gravelmon:anime_safari_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 400,
+			"weightMult": 0.35
+        },
+
+        "trainer_rew_gravm_feather_ball": {
+            "type": "item",
+            "content": "gravelmon:feather_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 375
+        },
+
+        "trainer_rew_gravm_gen2_lure_ball": {
+            "type": "item",
+            "content": "gravelmon:gen2_lure_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 375
+        },
+
+        "trainer_rew_gravm_great_rocket_ball": {
+            "type": "item",
+            "content": "gravelmon:great_rocket_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 400,
+			"weightMult": 0.5
+        },
+
+        "trainer_rew_gravm_gs_ball": {
+            "type": "item",
+            "content": "gravelmon:gs_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4150,
+			"weightMult": 0.2
+        },
+
+        "trainer_rew_gravm_lake_ball": {
+            "type": "item",
+            "content": "gravelmon:lake_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 375
+        },
+
+        "trainer_rew_gravm_manga_safari_ball": {
+            "type": "item",
+            "content": "gravelmon:manga_safari_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 400,
+			"weightMult": 0.35
+        },
+
+        "trainer_rew_gravm_sun_ball": {
+            "type": "item",
+            "content": "gravelmon:sun_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 375
+        },
+
+        "trainer_rew_gravm_xeno_ball": {
+            "type": "item",
+            "content": "gravelmon:xeno_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 375
+        },
+
+        "trainer_rew_gravm_ace_ball": {
+            "type": "item",
+            "content": "gravelmon:ace_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 375
+        },
+
+        "trainer_rew_gravm_aro_ball": {
+            "type": "item",
+            "content": "gravelmon:aro_ball",
+            "rarity": "UNCOMMON",
+            "amount": 
+            {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 375
+        },
+
+        "trainer_rew_gravm_bi_ball": {
+            "type": "item",
+            "content": "gravelmon:bi_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_dawn_ball": {
+            "type": "item",
+            "content": "gravelmon:dawn_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_gay_ball": {
+            "type": "item",
+            "content": "gravelmon:gay_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_lesbian_ball": {
+            "type": "item",
+            "content": "gravelmon:lesbian_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_non_binary_ball": {
+            "type": "item",
+            "content": "gravelmon:non_binary_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_nuclear_ball": {
+            "type": "item",
+            "content": "gravelmon:nuclear_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_pan_ball": {
+            "type": "item",
+            "content": "gravelmon:pan_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_trans_ball": {
+            "type": "item",
+            "content": "gravelmon:trans_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_typing_ball": {
+            "type": "item",
+            "content": "gravelmon:typing_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500
+        },
+
+        "trainer_rew_gravm_ultra_rocket_ball": {
+            "type": "item",
+            "content": "gravelmon:ultra_rocket_ball",
+            "rarity": "RARE",
+            "amount": 
+            {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 550,
+			"weightMult": 0.5
+        },
+
+        "trainer_rew_gravm_ancient_ball": {
+            "type": "item",
+            "content": "gravelmon:ancient_ball",
+            "rarity": "EPIC",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000
+        },
+
+        "trainer_rew_gravm_atom_ball": {
+            "type": "item",
+            "content": "gravelmon:atom_ball",
+            "rarity": "EPIC",
+            "amount": 
+            {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 1050
+        },
+
+        "trainer_rew_gravm_delta_ball": {
+            "type": "item",
+            "content": "gravelmon:delta_ball",
+            "rarity": "EPIC",
+            "amount": 
+            {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 2550
+        },
+
+        "trainer_rew_gravm_ark_ball": {
+            "type": "item",
+            "content": "gravelmon:ark_ball",
+            "rarity": "LEGENDARY",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 20000
+        },
+
+        "trainer_rew_gravm_luster_ball": {
+            "type": "item",
+            "content": "gravelmon:luster_ball",
+            "rarity": "LEGENDARY",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 25000
+        },
+
+        "trainer_rew_gravm_shiny_ball": {
+            "type": "item",
+            "content": "gravelmon:shiny_ball",
+            "rarity": "LEGENDARY",
+            "amount": 
+            {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 15000
+        }
+
+    }
+
+}
