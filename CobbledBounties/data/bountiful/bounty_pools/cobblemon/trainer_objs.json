@@ -336,7 +336,8 @@
           "min": 1,
           "max": 1
         },
-      "unitWorth": 2000
+      "unitWorth": 4000,
+			"weightMult": 0.5
     },
 
     "trainer_obj_cobblemon_catch_shiny_epic": {
@@ -354,11 +355,13 @@
           "min": 1,
           "max": 3
         },
-      "unitWorth": 2000
+      "unitWorth": 4000,
+			"weightMult": 0.2
     }, 
 
     "trainer_obj_cobblemon_defeat_pokemon": {
       "type": "criteria",
+      "timeMult": 2.0,
       "icon": "minecraft:knowledge_book",
       "content": "cobblemon:pokemon_defeated",
       "conditions": 
@@ -370,12 +373,14 @@
           "min": 1,
           "max": 8
         },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"weightMult": 1.1
     },
 
     "trainer_obj_cobblemon_defeat_pokemon2": {
       "type": "criteria",
       "rarity": "UNCOMMON",
+      "timeMult": 2.0,
       "icon": "minecraft:knowledge_book",
       "content": "cobblemon:pokemon_defeated",
       "conditions": 
@@ -387,7 +392,8 @@
           "min": 2,
           "max": 12
         },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"weightMult": 1.1
     },
 
     "trainer_obj_cobblemon_defeat_pokemon_uncommon": {
@@ -405,7 +411,8 @@
           "min": 4,
           "max": 24
         },
-      "unitWorth": 275
+      "unitWorth": 275,
+			"weightMult": 1.1
     },
 
     "trainer_obj_cobblemon_defeat_pokemon_uncommon2": {
@@ -423,7 +430,8 @@
           "min": 6,
           "max": 36
         },
-      "unitWorth": 275
+      "unitWorth": 275,
+			"weightMult": 1.1
     }
 
   }

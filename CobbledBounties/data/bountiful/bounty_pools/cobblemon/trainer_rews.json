@@ -10,7 +10,14 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_citrine_ball": {
@@ -21,7 +28,14 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_poke_ball": {
@@ -32,7 +46,14 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_premier_ball": {
@@ -43,7 +64,14 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_roseate_ball": {
@@ -54,7 +82,14 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_slate_ball": {
@@ -65,7 +100,14 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_verdant_ball": {
@@ -76,7 +118,14 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 250
+      "unitWorth": 250,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_cherish_ball": {
@@ -87,7 +136,14 @@
 				"min": 1,
 				"max": 10
       },
-      "unitWorth": 275
+      "unitWorth": 275,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_heal_ball": {
@@ -98,7 +154,14 @@
 				"min": 1,
 				"max": 10
       },
-      "unitWorth": 275
+      "unitWorth": 275,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_safari_ball": {
@@ -109,7 +172,14 @@
 				"min": 1,
 				"max": 10
       },
-      "unitWorth": 275
+      "unitWorth": 275,
+			"forbids": 
+      [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
     },
 
     "trainer_rew_cobblemon_great_ball": {

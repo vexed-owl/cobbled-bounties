@@ -12,7 +12,14 @@
                 "max": 10
             },
             "unitWorth": 300,
-			"weightMult": 0.5
+			"weightMult": 0.5,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
         },
 
         "trainer_rew_gravm_coral_ball": {
@@ -23,7 +30,14 @@
                 "min": 1,
                 "max": 12
             },
-            "unitWorth": 250
+            "unitWorth": 250,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
         },
 
         "trainer_rew_gravm_fishing_ball": {
@@ -35,7 +49,14 @@
                 "max": 8
             },
             "unitWorth": 300,
-			"weightMult": 0.35
+			"weightMult": 0.35,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
         },
 
         "trainer_rew_gravm_lime_ball": {
@@ -47,7 +68,14 @@
                 "max": 3
             },
             "unitWorth": 1050,
-			"weightMult": 0.35
+			"weightMult": 0.35,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
 		},
 
         "trainer_rew_gravm_mauve_ball": {
@@ -58,7 +86,14 @@
                 "min": 1,
                 "max": 12
             },
-            "unitWorth": 250
+            "unitWorth": 250,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
         },
 
         "trainer_rew_gravm_oakley_ball": {
@@ -70,7 +105,14 @@
                 "max": 10
             },
             "unitWorth": 300,
-			"weightMult": 0.5
+			"weightMult": 0.5,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
 		},
 
         "trainer_rew_gravm_rocket_ball": {
@@ -82,7 +124,14 @@
                 "max": 10
             },
             "unitWorth": 300,
-			"weightMult": 0.5
+			"weightMult": 0.5,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
 		},
 
         "trainer_rew_gravm_snore_ball": {
@@ -94,7 +143,14 @@
                 "max": 3
             },
             "unitWorth": 250,
-			"weightMult": 0.35
+			"weightMult": 0.35,
+			"forbids": 
+            [
+				{
+					"type": "item",
+					"content": "cobblemon:poke_ball"
+				}
+			]
 		},
 
         "trainer_rew_gravm_anime_gs_ball": {

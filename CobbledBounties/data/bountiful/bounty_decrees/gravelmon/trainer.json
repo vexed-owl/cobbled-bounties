@@ -1,6 +1,14 @@
 {
+  "objectives": 
+  [
+    "trainer_objs",
+    "_all_objs_cobblemon"
+  ],
   "rewards": 
   [
-    "trainer_gravm_rews"
+    "trainer_rews",
+    "_all_rews_cobblemon",
+    "trainer_gravm_rews",
+    "_all_rews"
   ]
 }

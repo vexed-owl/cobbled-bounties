@@ -11,6 +11,7 @@
 				"max": 4
 			},
 			"unitWorth": 100,
+			"weightMult": 0.5,
 			"forbids": 
             [
 				{
@@ -32,6 +33,7 @@
 				"max": 16
 			},
 			"unitWorth": 120,
+			"weightMult": 0.5,
 			"forbids": 
             [
 				{
@@ -53,6 +55,7 @@
 				"max": 4
 			},
 			"unitWorth": 100,
+			"weightMult": 0.5,
 			"forbids": 
             [
 				{
@@ -74,6 +77,7 @@
 				"max": 16
 			},
 			"unitWorth": 120,
+			"weightMult": 0.5,
 			"forbids": 
             [
 				{

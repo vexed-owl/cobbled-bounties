@@ -3,6 +3,7 @@
     [
       "inventor_objs",
 		  "_all_objs",
+      "inventor_cm_objs",
       "_all_objs_cobblemon"
     ],
   "rewards": 
