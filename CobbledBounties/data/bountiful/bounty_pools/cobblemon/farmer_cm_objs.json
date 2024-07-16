@@ -27,7 +27,7 @@
 				"min": 1,
 				"max": 4
 			  },
-			"unitWorth": 1000
+			"unitWorth": 250
 		  },
 
 		  "farmer_obj_cobblemon_catch_water": {
@@ -45,7 +45,7 @@
 				"min": 1,
 				"max": 4
 			  },
-			"unitWorth": 1000
+			"unitWorth": 250
 		  },
 
 		"farmer_obj_cobblemon_coarse_mulch": {

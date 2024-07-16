@@ -2,17 +2,6 @@
   "requires": ["cobblemon"],
   "content": {
       
-    "trainer_rew_cobblemon_poke_ball": {
-      "type": "item",
-      "content": "cobblemon:poke_ball",
-      "amount": 
-      {
-				"min": 1,
-				"max": 12
-      },
-      "unitWorth": 1000
-    },
-
     "trainer_rew_cobblemon_azure_ball": {
       "type": "item",
       "content": "cobblemon:azure_ball",
@@ -21,7 +10,7 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 1000
+      "unitWorth": 250
     },
 
     "trainer_rew_cobblemon_citrine_ball": {
@@ -32,40 +21,18 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 1000
+      "unitWorth": 250
     },
 
-    "trainer_rew_cobblemon_roseate_ball": {
+    "trainer_rew_cobblemon_poke_ball": {
       "type": "item",
-      "content": "cobblemon:roseate_ball",
+      "content": "cobblemon:poke_ball",
       "amount": 
       {
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 1000
-    },
-
-    "trainer_rew_cobblemon_slate_ball": {
-      "type": "item",
-      "content": "cobblemon:slate_ball",
-      "amount": 
-      {
-				"min": 1,
-				"max": 12
-      },
-      "unitWorth": 1000
-    },
-
-    "trainer_rew_cobblemon_verdant_ball": {
-      "type": "item",
-      "content": "cobblemon:verdant_ball",
-      "amount": 
-      {
-				"min": 1,
-				"max": 12
-      },
-      "unitWorth": 1000
+      "unitWorth": 250
     },
 
     "trainer_rew_cobblemon_premier_ball": {
@@ -76,7 +43,40 @@
 				"min": 1,
 				"max": 12
       },
-      "unitWorth": 1000
+      "unitWorth": 250
+    },
+
+    "trainer_rew_cobblemon_roseate_ball": {
+      "type": "item",
+      "content": "cobblemon:roseate_ball",
+      "amount": 
+      {
+				"min": 1,
+				"max": 12
+      },
+      "unitWorth": 250
+    },
+
+    "trainer_rew_cobblemon_slate_ball": {
+      "type": "item",
+      "content": "cobblemon:slate_ball",
+      "amount": 
+      {
+				"min": 1,
+				"max": 12
+      },
+      "unitWorth": 250
+    },
+
+    "trainer_rew_cobblemon_verdant_ball": {
+      "type": "item",
+      "content": "cobblemon:verdant_ball",
+      "amount": 
+      {
+				"min": 1,
+				"max": 12
+      },
+      "unitWorth": 250
     },
 
     "trainer_rew_cobblemon_cherish_ball": {
@@ -87,18 +87,7 @@
 				"min": 1,
 				"max": 10
       },
-      "unitWorth": 1100
-    },
-
-    "trainer_rew_cobblemon_safari_ball": {
-      "type": "item",
-      "content": "cobblemon:safari_ball",
-      "amount": 
-      {
-				"min": 1,
-				"max": 10
-      },
-      "unitWorth": 1100
+      "unitWorth": 275
     },
 
     "trainer_rew_cobblemon_heal_ball": {
@@ -109,7 +98,18 @@
 				"min": 1,
 				"max": 10
       },
-      "unitWorth": 1100
+      "unitWorth": 275
+    },
+
+    "trainer_rew_cobblemon_safari_ball": {
+      "type": "item",
+      "content": "cobblemon:safari_ball",
+      "amount": 
+      {
+				"min": 1,
+				"max": 10
+      },
+      "unitWorth": 275
     },
 
     "trainer_rew_cobblemon_great_ball": {
@@ -121,115 +121,7 @@
         "min": 1,
         "max": 8
       },
-      "unitWorth": 1500
-    },
-
-    "trainer_rew_cobblemon_fast_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:fast_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
-    },
-
-    "trainer_rew_cobblemon_level_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:level_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
-    },
-
-    "trainer_rew_cobblemon_lure_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:lure_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
-    },
-    
-    "trainer_rew_cobblemon_heavy_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:heavy_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
-    },
-
-    "trainer_rew_cobblemon_friend_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:friend_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
-    },
-
-    "trainer_rew_cobblemon_moon_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:moon_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
-    },
-
-    "trainer_rew_cobblemon_sport_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:sport_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
-    },
-
-    "trainer_rew_cobblemon_park_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:park_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
-    },
-
-    "trainer_rew_cobblemon_net_ball": {
-      "type": "item",
-      "rarity": "UNCOMMON",
-      "content": "cobblemon:net_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 8
-      },
-      "unitWorth": 1500
+      "unitWorth": 375
     },
 
     "trainer_rew_cobblemon_dive_ball": {
@@ -241,7 +133,79 @@
         "min": 1,
         "max": 8
       },
-      "unitWorth": 1500
+      "unitWorth": 375
+    },
+
+    "trainer_rew_cobblemon_fast_ball": {
+      "type": "item",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:fast_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 375
+    },
+
+    "trainer_rew_cobblemon_friend_ball": {
+      "type": "item",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:friend_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 375
+    },
+
+    "trainer_rew_cobblemon_heavy_ball": {
+      "type": "item",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:heavy_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 375
+    },
+
+    "trainer_rew_cobblemon_level_ball": {
+      "type": "item",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:level_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 375
+    },
+
+    "trainer_rew_cobblemon_lure_ball": {
+      "type": "item",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:lure_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 375
+    },
+    
+    "trainer_rew_cobblemon_moon_ball": {
+      "type": "item",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:moon_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 375
     },
 
     "trainer_rew_cobblemon_nest_ball": {
@@ -253,43 +217,43 @@
         "min": 1,
         "max": 8
       },
-      "unitWorth": 1500
+      "unitWorth": 375
     },
 
-    "trainer_rew_cobblemon_repeat_ball": {
+    "trainer_rew_cobblemon_net_ball": {
       "type": "item",
-      "rarity": "RARE",
-      "content": "cobblemon:repeat_ball",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:net_ball",
       "amount": 
       {
         "min": 1,
-        "max": 4
+        "max": 8
       },
-      "unitWorth": 2000
+      "unitWorth": 375
     },
 
-    "trainer_rew_cobblemon_timer_ball": {
+    "trainer_rew_cobblemon_park_ball": {
       "type": "item",
-      "rarity": "RARE",
-      "content": "cobblemon:timer_ball",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:park_ball",
       "amount": 
       {
         "min": 1,
-        "max": 4
+        "max": 8
       },
-      "unitWorth": 2000
+      "unitWorth": 375
     },
 
-    "trainer_rew_cobblemon_luxury_ball": {
+    "trainer_rew_cobblemon_sport_ball": {
       "type": "item",
-      "rarity": "RARE",
-      "content": "cobblemon:luxury_ball",
+      "rarity": "UNCOMMON",
+      "content": "cobblemon:sport_ball",
       "amount": 
       {
         "min": 1,
-        "max": 4
+        "max": 8
       },
-      "unitWorth": 2000
+      "unitWorth": 375
     },
 
     "trainer_rew_cobblemon_dusk_ball": {
@@ -301,31 +265,7 @@
         "min": 1,
         "max": 4
       },
-      "unitWorth": 2000
-    },
-
-    "trainer_rew_cobblemon_quick_ball": {
-      "type": "item",
-      "rarity": "RARE",
-      "content": "cobblemon:quick_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 4
-      },
-      "unitWorth": 2000
-    },
-
-    "trainer_rew_cobblemon_ultra_ball": {
-      "type": "item",
-      "rarity": "RARE",
-      "content": "cobblemon:ultra_ball",
-      "amount": 
-      {
-        "min": 1,
-        "max": 4
-      },
-      "unitWorth": 2000
+      "unitWorth": 500
     },
 
     "trainer_rew_cobblemon_love_ball": {
@@ -337,7 +277,67 @@
         "min": 1,
         "max": 4
       },
-      "unitWorth": 2000
+      "unitWorth": 500
+    },
+
+    "trainer_rew_cobblemon_luxury_ball": {
+      "type": "item",
+      "rarity": "RARE",
+      "content": "cobblemon:luxury_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 500
+    },
+
+    "trainer_rew_cobblemon_quick_ball": {
+      "type": "item",
+      "rarity": "RARE",
+      "content": "cobblemon:quick_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 500
+    },
+
+    "trainer_rew_cobblemon_repeat_ball": {
+      "type": "item",
+      "rarity": "RARE",
+      "content": "cobblemon:repeat_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 500
+    },
+
+    "trainer_rew_cobblemon_timer_ball": {
+      "type": "item",
+      "rarity": "RARE",
+      "content": "cobblemon:timer_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 500
+    },
+
+    "trainer_rew_cobblemon_ultra_ball": {
+      "type": "item",
+      "rarity": "RARE",
+      "content": "cobblemon:ultra_ball",
+      "amount": 
+      {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 500
     },
 
     "trainer_rew_cobblemon_dream_ball": {
@@ -349,7 +349,7 @@
         "min": 1,
         "max": 3
       },
-      "unitWorth": 4500
+      "unitWorth": 1125
     },
 
     "trainer_rew_cobblemon_beast_ball": {
@@ -361,7 +361,7 @@
         "min": 1,
         "max": 1
       },
-      "unitWorth": 15500
+      "unitWorth": 2000
     },
     
     "trainer_rew_cobblemon_master_Ball": {

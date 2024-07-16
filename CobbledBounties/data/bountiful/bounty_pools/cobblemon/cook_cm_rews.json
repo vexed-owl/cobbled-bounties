@@ -9,7 +9,7 @@
 					  "min": 1,
 					  "max": 4
 			},
-			"unitWorth": 1000
+			"unitWorth": 250
 		},
 
 		"cook_rew_cobblemon_premier_ball": {
@@ -19,7 +19,7 @@
 						"min": 1,
 						"max": 4
 			},
-			"unitWorth": 1000
+			"unitWorth": 250
 		},
 
 		"cook_rew_cobblemon_love_ball": {
@@ -30,7 +30,7 @@
 			  "min": 1,
 			  "max": 2
 			},
-			"unitWorth": 1500
+			"unitWorth": 500
 		},
 	  
 		"cook_rew_cobblemon_dream_ball": {
@@ -41,7 +41,7 @@
 			  "min": 1,
 			  "max": 1
 			},
-			"unitWorth": 4500
+			"unitWorth": 1125
 		},
 
         "cook_rew_cobblemon_leftovers": {

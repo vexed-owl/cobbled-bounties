@@ -2,7 +2,7 @@
 	"requires": ["cobblemon"],
 	"content": {
 
-		"fisherman_obj_cobblemon_catch_water": {
+		"inventor_obj_cobblemon_catch_electric": {
 			"type": "criteria",
 			"rarity": "UNCOMMON",
 			"timeMult": 3.0,
@@ -10,7 +10,7 @@
 			"content": "cobblemon:catch_pokemon",
 			"conditions": 
 			  {
-				"type": "water"
+				"type": "electric"
 			  },
 			"amount": 
 			  {
@@ -19,7 +19,6 @@
 			  },
 			"unitWorth": 250
 		  }
-	  
 
 	}
 
