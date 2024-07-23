@@ -1,0 +1,103 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+        "librarian_rew_cobblemon_blunder_policy": {
+			"type": "item",
+			"content": "cobblemon:blunder_policy",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 900,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:blunder_policy"
+				}
+			]
+		},
+
+        "librarian_rew_cobblemon_cleanse_tag": {
+			"type": "item",
+			"content": "cobblemon:cleanse_tag",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 400,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:cleanse_tag"
+				}
+			]
+		},
+
+        "librarian_rew_cobblemon_red_card": {
+			"type": "item",
+			"content": "cobblemon:red_card",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 200,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:red_card"
+				}
+			]
+		},
+
+        "librarian_rew_cobblemon_spell_tag": {
+			"type": "item",
+			"content": "cobblemon:spell_tag",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 400,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:spell_tag"
+				}
+			]
+		},
+
+        "librarian_rew_cobblemon_weakness_policy": {
+			"type": "item",
+			"content": "cobblemon:weakness_policy",
+            "rarity": "RARE",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 650,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:bweakness_policy"
+				}
+			]
+		}
+
+	}
+
+}

@@ -1,0 +1,15 @@
+{
+	"objectives": 
+    [
+		"butcher_objs",
+        "_all_objs_cobblemon",
+		"_all_objs"
+	],
+	"rewards": 
+    [
+		"butcher_rews",
+        "butcher_cobblemon_rews",
+        "_all_rews_cobblemon",
+		"_all_rews"
+	]
+}

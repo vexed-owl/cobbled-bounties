@@ -1,0 +1,16 @@
+{
+	"objectives": 
+    [
+		"fletcher_objs",
+        "fletcher_cobblemon_objs",
+        "_all_objs_cobblemon",
+		"_all_objs"
+	],
+	"rewards": 
+    [
+		"fletcher_rews",
+        "fletcher_cobblemon_rews",
+        "_all_rews_cobblemon",
+		"_all_rews"
+	]
+}

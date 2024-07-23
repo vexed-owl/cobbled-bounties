@@ -1,0 +1,92 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+        "butcher_obj_cobblemon_charcoal_stick": {
+			"type": "item",
+			"content": "cobblemon:charcoal_stick",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000
+		},
+
+        "butcher_obj_cobblemon_fairy_feather": {
+			"type": "item",
+			"content": "cobblemon:fairy_feather",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "butcher_obj_cobblemon_quick_claw": {
+			"type": "item",
+			"content": "cobblemon:quick_claw",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+        
+        "butcher_obj_cobblemon_razor_claw": {
+			"type": "item",
+			"content": "cobblemon:razor_claw",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+        
+        "butcher_obj_cobblemon_razor_fang": {
+			"type": "item",
+			"content": "cobblemon:razor_fang",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "butcher_obj_cobblemon_sharp_beak": {
+			"type": "item",
+			"content": "cobblemon:sharp_beak",
+            "rarity": "EPIC",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+        "butcher_obj_cobblemon_lucky_egg": {
+			"type": "item",
+			"content": "cobblemon:lucky_egg",
+            "rarity": "LEGENDARY",
+			"amount": 
+            {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		}
+
+	}
+
+}

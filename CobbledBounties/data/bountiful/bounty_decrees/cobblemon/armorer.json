@@ -1,0 +1,16 @@
+{
+	"objectives": [
+		"armorer_objs",
+		"armorer_cobblemon_objs",
+		"_metal_objs",
+        "_all_objs_cobblemon",
+		"_all_objs"
+	],
+	"rewards": [
+		"armorer_rews",
+		"armorer_cobblemon_rews",
+		"_all_rews",
+        "_all_rews_cobblemon",
+		"_equip_rews"
+	]
+}

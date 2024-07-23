@@ -1,0 +1,97 @@
+{
+	"requires": ["cobblemon"],
+	"content": {
+
+		"inventor_obj_cobblemon_catch_electric": {
+			"type": "criteria",
+			"content": "cobblemon:catch_pokemon",
+			"icon": "minecraft:knowledge_book",
+			"timeMult": 3.0,
+			"rarity": "UNCOMMON",
+			"conditions": 
+			{
+				"type": "electric"
+			},
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 250
+		},
+
+		"inventor_obj_cobblemon_cell_battery": {
+			"type": "item",
+			"content": "cobblemon:cell_battery",
+			"rarity": "UNCOMMON",
+			"amount": 
+			{
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1800
+		},
+
+		"inventor_obj_cobblemon_eject_button": {
+			"type": "item",
+			"content": "cobblemon:eject_button",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 4500
+		},
+
+		"inventor_obj_cobblemon_electirizer": {
+			"type": "item",
+			"content": "cobblemon:electirizer",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 6500
+		},
+
+		"inventor_obj_cobblemon_magmarizer": {
+			"type": "item",
+			"content": "cobblemon:magmarizer",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 5500
+		},
+
+		"inventor_obj_cobblemon_magnet": {
+			"type": "item",
+			"content": "cobblemon:magnet",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 4500
+		},
+
+		"inventor_obj_cobblemon_upgrade": {
+			"type": "item",
+			"content": "cobblemon:upgrade",
+			"rarity": "EPIC",
+			"amount": 
+			{
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 4000
+		}
+
+	}
+
+}

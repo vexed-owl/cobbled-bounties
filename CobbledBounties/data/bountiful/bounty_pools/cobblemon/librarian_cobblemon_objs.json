@@ -1,0 +1,68 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+        "librarian_obj_cobblemon_blunder_policy": {
+			"type": "item",
+			"content": "cobblemon:blunder_policy",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 900
+		},
+
+        "librarian_obj_cobblemon_cleanse_tag": {
+			"type": "item",
+			"content": "cobblemon:cleanse_tag",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 400
+		},
+
+        "librarian_obj_cobblemon_red_card": {
+			"type": "item",
+			"content": "cobblemon:red_card",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 200
+		},
+
+        "librarian_obj_cobblemon_spell_tag": {
+			"type": "item",
+			"content": "cobblemon:spell_tag",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 400
+		},
+
+        "librarian_obj_cobblemon_weakness_policy": {
+			"type": "item",
+			"content": "cobblemon:weakness_policy",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 650
+		}
+
+	}
+
+}

@@ -1,13 +1,13 @@
 {
   "objectives": 
   [
-    "arborist_cm_objs",
+    "arborist_cobblemon_objs",
     "_all_objs",
     "_all_objs_cobblemon"
   ],
   "rewards": 
   [
-    "arborist_cm_rews",
+    "arborist_cobblemon_rews",
     "_all_rews",
     "_all_rews_cobblemon"
   ]

@@ -1,0 +1,264 @@
+{
+	"requires": ["cobblemon"],
+	"content": {
+
+		"inventor_rew_cobblemon_healing_machine": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:healing_machine",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 13500,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:copper_ingot"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_pc": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:pc",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5500,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:copper_ingot"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_cell_battery": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:cell_battery",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:cell_battery"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_fossil_analyzer": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:fossil_analyzer",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 3000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_monitor": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:monitor",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 6500
+		},
+
+		"inventor_rew_cobblemon_restoration_tank": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:restoration_tank",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:copper_ingot"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_dubious_disc": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:dubious_disc",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 15000
+		},
+
+		"inventor_rew_cobblemon_eject_button": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:eject_button",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:eject_button"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_exp_share": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:exp_share",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 9500
+		},
+
+		"inventor_rew_cobblemon_electirizer": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:electirizer",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 6800,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:electirizer"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_magmarizer": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:magmarizer",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5750,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:magmarizer"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_magnet": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:magnet",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:magnet"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_pasture": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:pasture",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 10500,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				}
+			]
+		},
+
+		"inventor_rew_cobblemon_upgrade": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:upgrade",
+			"amount": 
+			{
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4200,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:upgrade"
+				}
+			]
+		}
+
+	}
+
+}

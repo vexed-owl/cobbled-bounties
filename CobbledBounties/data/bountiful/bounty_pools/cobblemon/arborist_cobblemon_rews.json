@@ -1,0 +1,753 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+		"arborist_rew_cobblemon_black_apricorn": {
+			"type": "item",
+			"content": "cobblemon:black_apricorn",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 120,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:black_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:black_apricorn"
+				}
+			]
+		},
+
+		"arborist_rew_cobblemon_black_apricorn_seed": {
+			"type": "item",
+			"content": "cobblemon:black_apricorn_seed",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 100,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:black_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:black_apricorn"
+				}
+			]
+		},
+
+		"arborist_rew_cobblemon_blue_apricorn": {
+			"type": "item",
+			"content": "cobblemon:blue_apricorn",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 120,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:blue_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:blue_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_blue_apricorn_seed": {
+			"type": "item",
+			"content": "cobblemon:blue_apricorn_seed",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 100,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:blue_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:blue_apricorn"
+				}
+			]
+		},
+
+		"arborist_rew_cobblemon_green_apricorn": {
+			"type": "item",
+			"content": "cobblemon:green_apricorn",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 120,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:green_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:green_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_green_apricorn_seed": {
+			"type": "item",
+			"content": "cobblemon:green_apricorn_seed",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 100,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:green_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:green_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_pink_apricorn": {
+			"type": "item",
+			"content": "cobblemon:pink_apricorn",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 120,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:pink_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:pink_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_pink_apricorn_seed": {
+			"type": "item",
+			"content": "cobblemon:pink_apricorn_seed",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 100,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:pink_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:pink_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_red_apricorn": {
+			"type": "item",
+			"content": "cobblemon:red_apricorn",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 120,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:red_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:red_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_red_apricorn_seed": {
+			"type": "item",
+			"content": "cobblemon:red_apricorn_seed",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 100,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:red_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:red_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_white_apricorn": {
+			"type": "item",
+			"content": "cobblemon:white_apricorn",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 120,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:white_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:white_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_white_apricorn_seed": {
+			"type": "item",
+			"content": "cobblemon:white_apricorn_seed",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 100,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:white_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:white_apricorn"
+				}
+			]
+		},
+
+        "arborist_rew_cobblemon_yellow_apricorn": {
+			"type": "item",
+			"content": "cobblemon:yellow_apricorn",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 120,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:yellow_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:yellow_apricorn"
+				}
+			]
+		}, 
+
+        "arborist_rew_cobblemon_yellow_apricorn_seed": {
+			"type": "item",
+			"content": "cobblemon:yellow_apricorn_seed",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 100,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "cobblemon:yellow_apricorn_seed"
+				},
+				{
+					"type": "item",
+					"content": "cobblemon:yellow_apricorn"
+				}
+			]
+		},
+
+		"arborist_rew_cobblemon_mulch_base": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:mulch_base",
+			"amount": {
+				"min": 2,
+				"max": 24
+			},
+			"unitWorth": 125
+		},
+
+		"arborist_rew_cobblemon_coarse_mulch": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:coarse_mulch",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 170
+		},
+
+		"arborist_rew_cobblemon_custap_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:custap_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_enigma_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:enigma_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_growth_mulch": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:growth_mulch",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 275
+		},
+
+		"arborist_rew_cobblemon_humid_mulch": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:humid_mulch",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 275
+		},
+
+		"arborist_rew_cobblemon_jaboca_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:jaboca_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_kee_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:kee_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_lansat_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:lansat_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_loamy_mulch": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:loamy_mulch",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 170
+		},
+
+		"arborist_rew_cobblemon_maranga_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:maranga_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_peat_mulch": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:peat_mulch",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1625
+		},
+
+		"arborist_rew_cobblemon_rich_mulch": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:rich_mulch",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1325
+		},
+
+		"arborist_rew_cobblemon_rowap_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:rowap_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_sandy_mulch": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:sandy_mulch",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 200
+		},
+
+		"arborist_rew_cobblemon_starf_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:starf_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_touga_berry": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:touga_berry",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400
+		}, 
+
+		"arborist_rew_cobblemon_aguav_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:aguav_berry",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		}, 
+
+		"arborist_rew_cobblemon_apicot_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:apicot_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_ganlon_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:ganlon_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_grepa_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:grepa_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_figy_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:figy_berry",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		},
+
+		"arborist_rew_cobblemon_hondew_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:hondew_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_hopo_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:hopo_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_iapapa_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:iapapa_berry",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		}, 
+
+		"arborist_rew_cobblemon_kelpsy_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:kelpsy_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_leppa_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:leppa_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_liechi_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:liechi_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_lum_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:lum_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_mago_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:mago_berry",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		}, 
+
+		"arborist_rew_cobblemon_micle_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:micle_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_petaya_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:petaya_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_pomeg_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:pomeg_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_qualot_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:qualot_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_salac_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:salac_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		}, 
+
+		"arborist_rew_cobblemon_silver_powder": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:silver_powder",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:silver_powder"
+				}
+			]
+		}, 
+
+		"arborist_rew_cobblemon_sitrus_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:sitrus_berry",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		}, 
+
+		"arborist_rew_cobblemon_sticky_barb": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:sticky_barb",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000,
+			"forbids": 
+			[
+				{
+					"type": "item",
+					"content": "cobblemon:sticky_barb"
+				}
+			]
+		}, 
+
+		"arborist_rew_cobblemon_surprise_mulch": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:surprise_mulch",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2225
+		},
+
+		"arborist_rew_cobblemon_tamato_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:tamato_berry",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 700
+		},
+
+		"arborist_rew_cobblemon_wiki_berry": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:wiki_berry",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000
+		}
+
+	}
+
+}

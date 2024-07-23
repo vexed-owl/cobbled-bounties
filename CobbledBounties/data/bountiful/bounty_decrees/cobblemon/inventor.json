@@ -2,15 +2,15 @@
   "objectives": 
     [
       "inventor_objs",
+      "inventor_cobblemon_objs",
 		  "_all_objs",
-      "inventor_cm_objs",
       "_all_objs_cobblemon"
     ],
   "rewards": 
     [
       "inventor_rews",
+      "inventor_cobblemon_rews",
 	  	"_all_rews",
-      "inventor_cm_rews",
       "_all_rews_cobblemon"
     ]
 }

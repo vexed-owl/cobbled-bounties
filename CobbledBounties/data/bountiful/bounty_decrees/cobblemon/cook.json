@@ -1,12 +1,12 @@
 {
   "objectives": 
     [
-      "cook_cm_objs",
+      "cook_cobblemon_objs",
       "_all_objs"
     ],
   "rewards": 
     [
-      "cook_cm_rews",
+      "cook_cobblemon_rews",
       "_all_rews_cobblemon",
       "_all_rews"
     ]

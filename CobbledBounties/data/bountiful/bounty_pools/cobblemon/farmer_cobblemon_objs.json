@@ -1,0 +1,250 @@
+{
+	"requires": ["cobblemon"],
+	"content": {
+
+		"farmer_obj_cobblemon_catch_grass": {
+			"type": "criteria",
+			"rarity": "UNCOMMON",
+			"timeMult": 3.0,
+			"icon": "minecraft:knowledge_book",
+			"content": "cobblemon:catch_pokemon",
+			"conditions": 
+			  {
+				"type": "grass"
+			  },
+			"amount": 
+			  {
+				"min": 1,
+				"max": 4
+			  },
+			"unitWorth": 250
+		  },
+
+		  "farmer_obj_cobblemon_catch_water": {
+			"type": "criteria",
+			"rarity": "UNCOMMON",
+			"timeMult": 3.0,
+			"icon": "minecraft:knowledge_book",
+			"content": "cobblemon:catch_pokemon",
+			"conditions": 
+			  {
+				"type": "water"
+			  },
+			"amount": 
+			  {
+				"min": 1,
+				"max": 4
+			  },
+			"unitWorth": 250
+		  },
+
+		"farmer_obj_cobblemon_blue_mint_leaf": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:blue_mint_leaf",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 500
+		},
+
+		"farmer_obj_cobblemon_coarse_mulch": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:coarse_mulch",
+			"amount": {
+				"min": 4,
+				"max": 24
+			},
+			"unitWorth": 170
+		},
+
+		"farmer_obj_cobblemon_cyan_mint_leaf": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:cyan_mint_leaf",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 500
+		},
+
+		"farmer_obj_cobblemon_green_mint_leaf": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:green_mint_leaf",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 500
+		},
+
+		"farmer_obj_cobblemon_growth_mulch": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:growth_mulch",
+			"amount": {
+				"min": 4,
+				"max": 24
+			},
+			"unitWorth": 275
+		},
+
+		"farmer_obj_cobblemon_humid_mulch": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:humid_mulch",
+			"amount": {
+				"min": 4,
+				"max": 24
+			},
+			"unitWorth": 275
+		},
+
+		"farmer_obj_cobblemon_loamy_mulch": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:loamy_mulch",
+			"amount": {
+				"min": 4,
+				"max": 24
+			},
+			"unitWorth": 170
+		},
+
+		"farmer_obj_cobblemon_medicinal_leek": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:medicinal_leek",
+			"amount": {
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 65
+		},
+
+		"farmer_obj_cobblemon_mulch_base": {
+			"type": "item",
+			"content": "cobblemon:mulch_base",
+			"amount": {
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 125
+		},
+
+		"farmer_obj_cobblemon_peat_mulch": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:peat_mulch",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 1625
+		},
+
+		"farmer_obj_cobblemon_pink_mint_leaf": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:pink_mint_leaf",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 500
+		},
+
+		"farmer_obj_cobblemon_red_mint_leaf": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:red_mint_leaf",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 500
+		},
+
+		"farmer_obj_cobblemon_rich_mulch": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:rich_mulch",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 1325
+		},
+
+		"farmer_obj_cobblemon_sandy_mulch": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "cobblemon:sandy_mulch",
+			"amount": {
+				"min": 4,
+				"max": 24
+			},
+			"unitWorth": 200
+		},
+
+		"farmer_obj_cobblemon_surprise_mulch": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:surprise_mulch",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2225
+		},
+
+		"farmer_obj_cobblemon_white_mint_leaf": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "cobblemon:white_mint_leaf",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 500
+		},
+
+		"farmer_rew_cobblemon_peat_block": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:peat_block",
+			"amount": {
+				"min": 2,
+				"max": 8
+			}
+		},
+
+		"farmer_rew_cobblemon_sachet": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:sachet",
+			"amount": {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 500
+		},
+
+		"farmer_rew_cobblemon_soft_sand": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "cobblemon:soft_sand",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 1000
+		}
+
+	}
+
+}

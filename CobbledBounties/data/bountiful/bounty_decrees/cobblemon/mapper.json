@@ -1,0 +1,16 @@
+{
+	"objectives": 
+    [
+		"mapper_objs",
+        "mapper_cobblemon_objs",
+        "_all_objs_cobblemon",
+		"_all_objs"
+	],
+	"rewards": 
+    [
+		"mapper_rews",
+        "mapper_cobblemon_rews",
+        "_all_rews_cobblemon",
+		"_all_rews"
+	]
+}

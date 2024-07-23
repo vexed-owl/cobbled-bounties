@@ -1,0 +1,16 @@
+{
+	"objectives": 
+    [
+		"shepherd_objs",
+        "shepherd_cobblemon_objs",
+        "_all_objs_cobblemon",
+		"_all_objs"
+	],
+	"rewards": 
+    [
+		"shepherd_rews",
+        "shepherd_cobblemon_rews",
+        "_all_rews_cobblemon",
+		"_all_rews"
+	]
+}

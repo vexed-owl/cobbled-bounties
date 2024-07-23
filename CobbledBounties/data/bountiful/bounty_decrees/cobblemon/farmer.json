@@ -2,16 +2,16 @@
   "objectives": 
     [
       "farmer_objs",
-		  "_all_objs",
-      "farmer_cm_objs",
+      "farmer_cobblemon_objs",
+      "_all_objs",
       "_all_objs_cobblemon"
     ],
   "rewards": 
   [
     "farmer_rews",
-		"_all_rews",
-		"_gardening_rews",
-    "farmer_cm_rews",
+    "farmer_cobblemon_rews",
+    "_gardening_rews",
+    "_all_rews",
     "_all_rews_cobblemon"
   ]
 }

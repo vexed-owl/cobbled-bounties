@@ -1,0 +1,31 @@
+{
+	"requires": ["cobblemon"],
+	"content": 
+	{
+
+        "fletcher_obj_cobblemon_poison_barb": {
+			"type": "item",
+			"content": "cobblemon:poison_barb",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 350
+		},
+
+        "fletcher_obj_cobblemon_ring_target": {
+			"type": "item",
+			"content": "cobblemon:ring_target",
+            "rarity": "UNCOMMON",
+			"amount": 
+            {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 800
+		}
+
+	}
+}

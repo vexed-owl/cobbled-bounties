@@ -1,0 +1,14 @@
+{
+	"objectives": [
+		"librarian_objs",
+        "librarian_cobblemon_objs",
+        "_all_objs_cobblemon",
+		"_all_objs"
+	],
+	"rewards": [
+		"librarian_rews",
+        "librarian_cobblemon_rews",
+        "_all_rews_cobblemon",
+		"_all_rews"
+	]
+}

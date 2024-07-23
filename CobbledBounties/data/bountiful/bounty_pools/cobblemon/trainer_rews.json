@@ -433,17 +433,149 @@
       },
       "unitWorth": 2000
     },
-    
-    "trainer_rew_cobblemon_master_Ball": {
+
+    "trainer_rew_cobblemon_light_ball": {
       "type": "item",
-      "rarity": "LEGENDARY",
-      "content": "cobblemon:master_ball",
+      "rarity": "EPIC",
+      "content": "cobblemon:light_ball",
       "amount": 
       {
         "min": 1,
         "max": 1
       },
-      "unitWorth": 17000
+      "unitWorth": 4000
+    },
+
+    "trainer_rew_cobblemon_powder_anklet": {
+      "type": "item",
+      "content": "cobblemon:powder_anklet",
+      "rarity": "EPIC",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 9000
+    },
+
+    "trainer_rew_cobblemon_powder_band": {
+      "type": "item",
+      "content": "cobblemon:powder_band",
+      "rarity": "EPIC",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 9000
+    },
+
+    "trainer_rew_cobblemon_powder_belt": {
+      "type": "item",
+      "content": "cobblemon:powder_belt",
+      "rarity": "EPIC",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 9000
+    },
+
+    "trainer_rew_cobblemon_powder_bracer": {
+      "type": "item",
+      "content": "cobblemon:powder_bracer",
+      "rarity": "EPIC",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 9000
+    },
+
+    "trainer_rew_cobblemon_powder_lens": {
+      "type": "item",
+      "content": "cobblemon:powder_lens",
+      "rarity": "EPIC",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 9000
+    },
+
+    "trainer_rew_cobblemon_powder_weight": {
+      "type": "item",
+      "content": "cobblemon:powder_weight",
+      "rarity": "EPIC",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 9000
+    },
+
+    "trainer_rew_cobblemon_shell_bell": {
+      "type": "item",
+      "content": "cobblemon:shell_bell",
+      "rarity": "EPIC",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 4000
+    },
+
+    "trainer_rew_cobblemon_soothe_bell": {
+      "type": "item",
+      "content": "cobblemon:soothe_bell",
+      "rarity": "EPIC",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 3250
+    },
+
+    "trainer_rew_cobblemon_life_orb": {
+      "type": "item",
+      "content": "cobblemon:life_orb",
+      "rarity": "LEGENDARY",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 25000
+    },
+
+    "trainer_rew_cobblemon_loaded_dice": {
+      "type": "item",
+      "content": "cobblemon:loaded_dice",
+      "rarity": "LEGENDARY",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 23000
+    },
+    
+    "trainer_rew_cobblemon_master_ball": {
+      "type": "item",
+      "content": "cobblemon:master_ball",
+      "rarity": "LEGENDARY",
+      "amount": 
+      {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 20000
     }
 
   }
