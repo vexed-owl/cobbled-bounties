@@ -2,15 +2,14 @@
   "objectives": 
     [
       "fisherman_objs",
+      "fisherman_pokefood_objs",
 		  "_all_objs",
-      "_all_objs_cobblemon",
-      "fisherman_pf_objs"
+      "_all_objs_cobblemon"
     ],
   "rewards": 
     [
       "fisherman_rews",
 		  "_all_rews",
-      "fisherman_cm_rews",
       "_all_rews_cobblemon"
     ]
 }

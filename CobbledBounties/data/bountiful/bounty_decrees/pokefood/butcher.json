@@ -1,10 +1,12 @@
 {
-	"objectives": [
+	"objectives": 
+	[
 		"butcher_objs",
-		"_all_objs",
-    	"butcher_pf_objs"
+		"butcher_pokefood_objs",
+		"_all_objs"
 	],
-	"rewards": [
+	"rewards": 
+	[
 		"butcher_rews",
 		"_all_rews"
 	]

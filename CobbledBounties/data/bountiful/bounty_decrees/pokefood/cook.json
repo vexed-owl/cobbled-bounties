@@ -1,11 +1,11 @@
 {
   "objectives": 
     [
-      "cook_pf_objs"
+      "cook_pokefood_objs"
     ],
   "rewards": 
   [
-    "cook_pf_rews",
+    "cook_pokefood_rews",
 		"_all_rews"
   ]
 }

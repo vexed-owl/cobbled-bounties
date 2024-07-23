@@ -7,8 +7,8 @@
   "rewards": 
   [
     "trainer_rews",
+    "trainer_gravelmon_rews",
     "_all_rews_cobblemon",
-    "trainer_gravm_rews",
     "_all_rews"
   ]
 }

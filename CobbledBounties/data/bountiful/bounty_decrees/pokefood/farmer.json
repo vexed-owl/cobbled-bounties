@@ -1,13 +1,15 @@
 {
-	"objectives": [
+	"objectives": 
+	[
 		"farmer_objs",
-		"_all_objs",
-    "farmer_pf_objs"
+		"farmer_pokefood_objs",
+		"_all_objs"
 	],
-	"rewards": [
+	"rewards": 
+	[
 		"farmer_rews",
+		"farmer_pokefood_rews",
 		"_all_rews",
-		"_gardening_rews",
-    "farmer_pf_rews"
+		"_gardening_rews"
 	]
 }
